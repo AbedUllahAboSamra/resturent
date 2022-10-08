@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../../../utils/app_colors.dart';
 import '../../../../utils/ui_helper.dart';
-import '../../../../views/mobile/swiggy/genie/genie_screen.dart';
+import '../../../../views/mobile/Home/genie/genie_screen.dart';
 import '../../../../widgets/responsive.dart';
 
 import 'all_restaurants/all_restaurants_screen.dart';

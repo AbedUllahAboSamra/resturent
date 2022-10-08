@@ -20,8 +20,8 @@ import 'swiggy_safety_banner_view.dart';
 import 'top_offer_view.dart';
 import 'top_picks_for_you_view.dart';
 
-class SwiggyScreen extends StatelessWidget {
-  const SwiggyScreen({Key? key}) : super(key: key);
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

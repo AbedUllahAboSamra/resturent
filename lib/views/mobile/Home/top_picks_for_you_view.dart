@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../../../models/top_picks_food.dart';
 import '../../../../utils/ui_helper.dart';
-import '../../../../views/mobile/swiggy/restaurants/restaurant_detail_screen.dart';
+import '../../../../views/mobile/Home/restaurants/restaurant_detail_screen.dart';
 
 class TopPicksForYouView extends StatelessWidget {
   final foods = TopPicksFood.getTopPicksfoods();

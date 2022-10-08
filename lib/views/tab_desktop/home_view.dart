@@ -3,16 +3,16 @@ import 'package:flutter/material.dart';
 import '../../models/spotlight_best_top_food.dart';
 import '../../utils/ui_helper.dart';
 import '../../widgets/custom_divider_view.dart';
-import '../mobile/swiggy/best_in_safety_view.dart';
-import '../mobile/swiggy/food_groceries_availability_view.dart';
-import '../mobile/swiggy/in_the_spotlight_view.dart';
-import '../mobile/swiggy/offers/offer_banner_view.dart';
-import '../mobile/swiggy/popular_brand_view.dart';
-import '../mobile/swiggy/popular_categories_view.dart';
-import '../mobile/swiggy/restaurants/restaurant_vertical_list_view.dart';
-import '../mobile/swiggy/swiggy_safety_banner_view.dart';
-import '../mobile/swiggy/swiggy_screen.dart';
-import '../mobile/swiggy/top_offer_view.dart';
+import '../mobile/Home/best_in_safety_view.dart';
+import '../mobile/Home/food_groceries_availability_view.dart';
+import '../mobile/Home/in_the_spotlight_view.dart';
+import '../mobile/Home/offers/offer_banner_view.dart';
+import '../mobile/Home/popular_brand_view.dart';
+import '../mobile/Home/popular_categories_view.dart';
+import '../mobile/Home/restaurants/restaurant_vertical_list_view.dart';
+import '../mobile/Home/swiggy_safety_banner_view.dart';
+import '../mobile/Home/home_screen.dart';
+import '../mobile/Home/top_offer_view.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({Key? key, this.expandFlex = 4}) : super(key: key);

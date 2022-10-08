@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../../../models/popular_brands.dart';
 import '../../../../utils/ui_helper.dart';
-import '../../../../views/mobile/swiggy/restaurants/restaurant_detail_screen.dart';
+import '../../../../views/mobile/Home/restaurants/restaurant_detail_screen.dart';
 import '../../../../widgets/responsive.dart';
 
 class PopularBrandsView extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../models/spotlight_best_top_food.dart';
 import '../../utils/ui_helper.dart';
-import '../../views/mobile/swiggy/restaurants/restaurant_detail_screen.dart';
+import '../../views/mobile/Home/restaurants/restaurant_detail_screen.dart';
 import '../../widgets/responsive.dart';
 
 class SpotlightBestTopFoodItem extends StatelessWidget {
